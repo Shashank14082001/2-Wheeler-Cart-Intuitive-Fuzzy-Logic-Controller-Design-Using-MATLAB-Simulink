@@ -1,1 +1,2 @@
 # 2-Wheeler-Cart-Intuitive-Fuzzy-Logic-Controller-Design-Using-MATLAB-Simulink
+I designed a balance and position controller for a two-wheeled robot using fuzzy logic, without needing an exact mathematical model. Instead, we used a physics-based model. Simulations showed that the fuzzy logic controller kept the robot upright with very little error and guided it to its target with minimal overshoot. These results prove the effectiveness of this intuitive design technique and highlight its benefits to the scientific community.
